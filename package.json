@@ -1,0 +1,22 @@
+{
+  "name": "aids",
+  "version": "1.0.0",
+  "description": "AI Descisive Start",
+  "main": "apiClients.js",
+  "scripts": {
+    "test": "testaids"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreightCompanionDavid/AI-DS.git"
+  },
+  "keywords": [
+    "ai"
+  ],
+  "author": "dw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreightCompanionDavid/AI-DS/issues"
+  },
+  "homepage": "https://github.com/FreightCompanionDavid/AI-DS#readme"
+}
